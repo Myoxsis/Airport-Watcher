@@ -1,0 +1,1194 @@
+{
+ 
+
+"BCS1" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A220 family",
+    "desc" : "Airbus A220-100"
+},
+"BCS3" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A220 family",
+    "desc" : "Airbus A220-300"
+},
+"223" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A220 family",
+    "desc" : "Airbus A220-300"
+},
+"A30B" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A300 family",
+    "desc" : "Airbus A300"
+},
+"A306" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A300 family",
+    "desc" : "Airbus A300-600"
+},
+"ABY" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A300 family",
+    "desc" : "Airbus A300-600"
+},
+"A3ST" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A300 family",
+    "desc" : "Airbus A300-600ST Beluga"
+},
+"A310" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A310 family",
+    "desc" : "Airbus A310"
+},
+"A318" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A318"
+},
+"318" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A318"
+},
+"A319" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A319"
+},
+"319" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A319"
+},
+"A19N" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A319neo"
+},
+"A320" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A320"
+},
+"32R" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A320"
+},
+"32N" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A320"
+},
+"320" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A320"
+},
+"32A" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A320"
+},
+"A20N" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A320neo"
+},
+"A321" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A321"
+},
+"32B" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A321"
+},
+"321" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A321"
+},
+"32S" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A321"
+},
+"A21N" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A321neo"
+},
+"32Q" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A320 family",
+    "desc" : "Airbus A321neo"
+},
+"330" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A330 family",
+    "desc": "Airbus A330"
+},
+"33F" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A330 family",
+    "desc": "Airbus A330"
+},
+"33X" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A330 family",
+    "desc": "Airbus A330-200"
+},
+"332" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A330 family",
+    "desc": "Airbus A330-200"
+},
+"A332" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A330 family",
+    "desc": "Airbus A330-200"
+},
+"A333" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A330 family",
+    "desc": "Airbus A330-300"
+},
+"333" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A330 family",
+    "desc": "Airbus A330-300"
+},
+"A337" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A330 family",
+    "desc": "Airbus A330-700 Beluga XL"
+},
+"A338" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A330 family",
+    "desc": "Airbus A330-800 Neo"
+},
+"A339" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A330 family",
+    "desc": "Airbus A330-900 Neo"
+},
+"339" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A330 family",
+    "desc": "Airbus A330-900 Neo"
+},
+"A342" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A340 family",
+    "desc": "Airbus A340-200"
+},
+"A343" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A340 family",
+    "desc": "Airbus A340-300"
+},
+"343" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A340 family",
+    "desc": "Airbus A340-300"
+},
+"A345" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A340 family",
+    "desc": "Airbus A340-500"
+},
+"A346" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A340 family",
+    "desc": "Airbus A340-600"
+},
+"A359" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A350 family",
+    "desc": "Airbus A350-900"
+},
+"359" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A350 family",
+    "desc": "Airbus A350-900"
+},
+"A35K" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A350 family",
+    "desc": "Airbus A350-1000"
+},
+"351" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A350 family",
+    "desc": "Airbus A350-1000"
+},
+"A388" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A380 family",
+    "desc": "Airbus A380-800"
+},
+"388" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A380 family",
+    "desc": "Airbus A380-800"
+},
+"A400" : {
+    "manuf" : "Airbus",
+    "fam": "Airbus A400M family",
+    "desc": "Airbus A400M Atlas"
+},
+
+
+"AN12" : {
+    "manuf" : "Antonov",
+    "fam": "Antonov An-12",
+    "desc": "Antonov An-12"
+},
+"A124" : {
+    "manuf" : "Antonov",
+    "fam": "Antonov An-124",
+    "desc": "Antonov An-124"
+},
+"A148" : {
+    "manuf" : "Antonov",
+    "fam": "Antonov An-148",
+    "desc": "Antonov An-148"
+},
+"AN26" : {
+    "manuf" : "Antonov",
+    "fam": "Antonov An-26",
+    "desc": "Antonov An-26"
+},
+"AN32" : {
+    "manuf" : "Antonov",
+    "fam": "Antonov An-32",
+    "desc": "Antonov An-32"
+},
+"A32" : {
+    "manuf" : "Antonov",
+    "fam": "Antonov An-32",
+    "desc": "Antonov An-32"
+},
+
+
+"AT4" : {
+    "manuf" : "ATR",
+    "fam": "ATR 42 family",
+    "desc": "ATR 42-300"
+},
+"AT43" : {
+    "manuf" : "ATR",
+    "fam": "ATR 42 family",
+    "desc": "ATR 42-300"
+},
+"AT45" : {
+    "manuf" : "ATR",
+    "fam": "ATR 42 family",
+    "desc": "ATR 42-500"
+},
+"AT46" : {
+    "manuf" : "ATR",
+    "fam": "ATR 42 family",
+    "desc": "ATR 42-600"
+},
+"AT7" : {
+    "manuf" : "ATR",
+    "fam" : "ATR 72 family",
+    "desc" : "ATR 72-201/202"
+},
+"AT72" : {
+    "manuf" : "ATR",
+    "fam" : "ATR 72 family",
+    "desc" : "ATR 72-201/202"
+},
+"AT73" : {
+    "manuf" : "ATR",
+    "fam" : "ATR 72 family",
+    "desc" : "ATR 72-211/212"
+},
+"AT75" : {
+    "manuf" : "ATR",
+    "fam" : "ATR 72 family",
+    "desc" : "ATR 72-500"
+},
+"AT76" : {
+    "manuf" : "ATR",
+    "fam" : "ATR 72 family",
+    "desc" : "ATR 72-600"
+},
+
+
+"RJ1H" : {
+    "manuf" : "Avio",
+    "fam": "Avro RJ family",
+    "desc" : "Avro RJ100"
+},
+"RJ70" : {
+    "manuf" : "Avio",
+    "fam": "Avro RJ family",
+    "desc" : "Avro RJ70"
+},
+"RJ85" : {
+    "manuf" : "Avio",
+    "fam": "Avro RJ family",
+    "desc" : "Avro RJ85"
+},
+
+
+"B190" : {
+    "manuf" : "Beechcraft",
+    "fam": "Beech 1900",
+    "desc" : "Beech 1900"
+},
+"BEH" : {
+    "manuf" : "Beechcraft",
+    "fam": "Beech 1900",
+    "desc" : "Beech 1900"
+},
+
+"BE20" : {
+    "manuf" : "Beechcraft",
+    "fam": "Beechcraft (Super) King Air 200",
+    "desc" : "Beechcraft (Super) King Air 200"
+},
+"PRM1" : {
+    "manuf" : "Beechcraft",
+    "fam": "Beech 390 Premier IA",
+    "desc" : "Beech 390 Premier IA"
+},
+
+
+"JS31" : {
+    "manuf" : "British Aerospace",
+    "fam": "British Aerospace Jetstream family",
+    "desc" : "BAe Jetstream 31"
+},
+"JS32" : {
+    "manuf" : "British Aerospace",
+    "fam": "British Aerospace Jetstream family",
+    "desc" : "BAe Jetstream 32"
+},
+"JS42" : {
+    "manuf" : "British Aerospace",
+    "fam": "British Aerospace Jetstream family",
+    "desc" : "BAe Jetstream 42"
+},
+
+
+"B712" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 717",
+    "desc" : "Boeing 717"
+},
+"B722" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 727-200",
+    "desc" : "Boeing 727-200"
+},
+"B732" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-200"
+},
+"B733" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-300"
+},
+"733" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-300"
+},
+"73C" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-300"
+},
+"B734" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-400" 
+},
+"734" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-400" 
+},
+"73P" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-400" 
+},
+"B735" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-500"
+},
+"B736" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-600"
+},
+"736" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-600"
+},
+"B737" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-700" 
+},
+"737" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-700" 
+},
+"7S7" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-700" 
+},
+"73W" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-700" 
+},
+"B738" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-800"
+},
+"738" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-800"
+},
+"73H" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-800"
+},
+"73K" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-800"
+},
+"B739" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-900"
+},
+"739" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737-900"
+},
+"B37M" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737 MAX 7"
+},
+"B38M" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737 MAX 8"
+},
+"7M8" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737 MAX 8"
+},
+"B39M" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737 MAX 9"
+},
+"B3XM" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 737 family",
+    "desc": "Boeing 737 MAX 10"
+},
+"B742" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 747 family",
+    "desc" : "Boeing 747-200"
+},
+"B743" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 747 family",
+    "desc" : "Boeing 747-300"
+},
+"B744" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 747 family",
+    "desc" : "Boeing 747-400"
+},
+"74Y" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 747 family",
+    "desc" : "Boeing 747-400"
+},
+"B748" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 747 family",
+    "desc" : "Boeing 747-8"
+},
+"74N" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 747 family",
+    "desc" : "Boeing 747-8"
+},
+"74H" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 747 family",
+    "desc" : "Boeing 747-8"
+},
+"B74S" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 747 family",
+    "desc" : "Boeing 747SP"
+},
+"B752" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 757 family",
+    "desc" : "Boeing 757-200"
+},
+"B753" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 757 family",
+    "desc" : "Boeing 757-300"
+},
+"B762" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 767 family",
+    "desc" : "Boeing 767-200"
+},
+"B763" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 767 family",
+    "desc" : "Boeing 767-300"
+},
+"B764" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 767 family",
+    "desc" : "Boeing 767-400"
+},
+"B772" : {
+    "manuf" : "Boeing",
+    "fam" : "Boeing 777 family",
+    "desc" : "Boeing 777-200"
+},
+"772" : {
+    "manuf" : "Boeing",
+    "fam" : "Boeing 777 family",
+    "desc" : "Boeing 777-200"
+},
+"77X" : {
+    "manuf" : "Boeing",
+    "fam" : "Boeing 777 family",
+    "desc" : "Boeing 777-200"
+},
+"B77L" : {
+    "manuf" : "Boeing",
+    "fam" : "Boeing 777 family",
+    "desc" : "Boeing 777-200LR"
+},
+"B773" : {
+    "manuf" : "Boeing",
+    "fam" : "Boeing 777 family",
+    "desc" : "Boeing 777-300"
+},
+"773" : {
+    "manuf" : "Boeing",
+    "fam" : "Boeing 777 family",
+    "desc" : "Boeing 777-300"
+},
+"B77W" : {
+    "manuf" : "Boeing",
+    "fam" : "Boeing 777 family",
+    "desc" : "Boeing 777-300ER"
+},
+"77W" : {
+    "manuf" : "Boeing",
+    "fam" : "Boeing 777 family",
+    "desc" : "Boeing 777-300ER"
+},
+"B779" : {
+    "manuf" : "Boeing",
+    "fam" : "Boeing 777 family",
+    "desc" : "Boeing 777-9"
+},
+"77F" : {
+    "manuf" : "Boeing",
+    "fam" : "Boeing 777 family",
+    "desc" : "Boeing 777-F"
+},
+"B78X" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 787 family",
+    "desc" : "Boeing 787-10"
+},
+"781" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 787 family",
+    "desc" : "Boeing 787-10"
+},
+"B788" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 787 family",
+    "desc" : "Boeing 787-8"
+},
+"788" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 787 family",
+    "desc" : "Boeing 787-8"
+},
+"B789" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 787 family",
+    "desc" : "Boeing 787-9"
+},
+"789" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing 787 family",
+    "desc" : "Boeing 787-9"
+},
+"C17" : {
+    "manuf" : "Boeing",
+    "fam": "Boeing C-17A Globemaster III",
+    "desc" : "Boeing C-17A Globemaster III"
+},
+
+
+"DH8A" : {
+    "manuf" : "Bombardier",
+    "fam": "Bombardier Dash 8 family",
+    "desc" : "Bombardier Dash 8-100"
+},
+"DH8B" : {
+    "manuf" : "Bombardier",
+    "fam": "Bombardier Dash 8 family",
+    "desc" : "Bombardier Dash 8-200"
+},
+"DH8C" : {
+    "manuf" : "Bombardier",
+    "fam": "Bombardier Dash 8 family",
+    "desc" : "Bombardier Dash 8-300"
+},
+"DH8D" : {
+    "manuf" : "Bombardier",
+    "fam": "Bombardier Dash 8 family",
+    "desc" : "Bombardier Dash 8-400"
+},
+"DH4" : {
+    "manuf" : "Bombardier",
+    "fam": "Bombardier Dash 8 family",
+    "desc" : "Bombardier Dash 8-400"
+},
+"GLEX" : {
+    "manuf" : "Bombardier",
+    "fam": "Bombardier Global family",
+    "desc" : "Bombardier Global Express"
+},
+"GL5T" : {
+    "manuf" : "Bombardier",
+    "fam": "Bombardier Global family",
+    "desc" : "Bombardier Global 5500"
+},
+"GL7T" : {
+    "manuf" : "Bombardier",
+    "fam": "Bombardier Global family",
+    "desc" : "Bombardier Global 7500"
+},
+"CL30" : {
+    "manuf" : "Bombardier",
+    "fam": "Bombardier Challenger family",
+    "desc" : "Bombardier BD-100 Challenger 300"
+},
+"CL35" : {
+    "manuf" : "Bombardier",
+    "fam": "Bombardier Challenger family",
+    "desc" : "Bombardier Challenger 3R0"
+},
+
+
+"CL2P" : {
+    "manuf" : "Canadair",
+    "fam": "Canadair Scooper\/Super Scooper family",
+    "desc" : "Canadair CL-215"
+},
+"CL2T" : {
+    "manuf" : "Canadair",
+    "fam": "Canadair Scooper\/Super Scooper family",
+    "desc" : "Canadair CL-215T\/CL-415"
+},
+"CL60" : {
+    "manuf" : "Canadair",
+    "fam": "Canadair Challenger 660",
+    "desc" : "Canadair Challenger 660"
+},
+
+
+"C56X" : {
+    "manuf" : "Cessna",
+    "fam": "Cessna Citation Family",
+    "desc" : "Cessna 560XL Citation XLS"
+},
+"C68A" : {
+    "manuf" : "Cessna",
+    "fam": "Cessna Citation Family",
+    "desc" : "Cessna 680A Citation Latitude"
+},
+"C25A" : {
+    "manuf" : "Cessna",
+    "fam": "Cessna Citation Family",
+    "desc" : "Cessna 525A Citation CJ2"
+},
+"C25B" : {
+    "manuf" : "Cessna",
+    "fam": "Cessna Citation Family",
+    "desc" : "Cessna 525B Citation CJ3"
+},
+"C525" : {
+    "manuf" : "Cessna",
+    "fam": "Cessna Citation Family",
+    "desc" : "Cessna 525 Citation CJ1"
+},
+"C510" : {
+    "manuf" : "Cessna",
+    "fam": "Cessna Citation family",
+    "desc" : "Cessna Citation Mustang"
+},
+"C55B" : {
+    "manuf" : "Cessna",
+    "fam": "Cessna Citation family",
+    "desc" : "Cessna 550 Citation Bravo"
+},
+"C25M" : {
+    "manuf" : "Cessna",
+    "fam": "Cessna Citation family",
+    "desc" : "Cessna 525 Citation M2"
+},
+"C650" : {
+    "manuf" : "Cessna",
+    "fam": "Cessna Citation family",
+    "desc" : "Cessna 650 Citation III"
+},
+"C25C" : {
+    "manuf" : "Cessna",
+    "fam": "Cessna Citation family",
+    "desc" : "Cessna 525C Citation CJ4"
+},
+"C750" : {
+    "manuf" : "Cessna",
+    "fam": "Cessna Citation family",
+    "desc" : "Cessna 750 Citation X"
+},
+"C560" : {
+    "manuf" : "Cessna",
+    "fam": "Cessna Citation family",
+    "desc" : "Cessna 560 Citation Encore+"
+},
+"C550" : {
+    "manuf" : "Cessna",
+    "fam": "Cessna Citation family",
+    "desc" : "Cessna 550 Citation II"
+},
+"C208" : {
+    "manuf" : "Cessna",
+    "fam": "Cessna Caravan family",
+    "desc" : "Cessna 208 Caravan"
+},
+
+
+"F2TH" : {
+    "manuf" : "Dassault Aviation",
+    "fam": "Dassault Falcon",
+    "desc" : "Dassault Falcon 2000LXS"
+},
+"F900" : {
+    "manuf" : "Dassault Aviation",
+    "fam": "Dassault Falcon",
+    "desc" : "Dassault Falcon 900"
+},
+"FA8X" : {
+    "manuf" : "Dassault Aviation",
+    "fam": "Dassault Falcon",
+    "desc" : "Dassault Falcon 8X"
+},
+"FA7X" : {
+    "manuf" : "Dassault Aviation",
+    "fam": "Dassault Falcon",
+    "desc" : "Dassault Falcon 7X"
+},
+"FA6X" : {
+    "manuf" : "Dassault Aviation",
+    "fam": "Dassault Falcon",
+    "desc" : "Dassault Falcon 6X"
+},
+
+
+"E170" : {
+    "manuf" : "Embraer",
+    "fam" : "Embraer E-Jet family",
+    "desc" : "Embraer E170"
+},
+"E70" : {
+    "manuf" : "Embraer",
+    "fam" : "Embraer E-Jet family",
+    "desc" : "Embraer E170"
+},
+"E75L" : {
+    "manuf" : "Embraer",
+    "fam" : "Embraer E-Jet family",
+    "desc" : "Embraer E175 (long)"
+},
+"E75S" : {
+    "manuf" : "Embraer",
+    "fam" : "Embraer E-Jet family",
+    "desc" : "Embraer E175 (short)"
+},
+"E190" : {
+    "manuf" : "Embraer",
+    "fam" : "Embraer E-Jet family",
+    "desc" : "Embraer E190"
+},
+"EMJ" : {
+    "manuf" : "Embraer",
+    "fam" : "Embraer E-Jet family",
+    "desc" : "Embraer E190"
+},
+"E90" : {
+    "manuf" : "Embraer",
+    "fam" : "Embraer E-Jet family",
+    "desc" : "Embraer E190"
+},
+"E290" : {
+    "manuf" : "Embraer",
+    "fam" : "Embraer E-Jet family",
+    "desc" : "Embraer E190-E2"
+},
+"E195" : {
+    "manuf" : "Embraer",
+    "fam" : "Embraer E-Jet family",
+    "desc" : "Embraer E195"
+},
+"E95" : {
+    "manuf" : "Embraer",
+    "fam" : "Embraer E-Jet family",
+    "desc" : "Embraer E195"
+},
+"E295" : {
+    "manuf" : "Embraer",
+    "fam" : "Embraer E-Jet family",
+    "desc" : "Embraer E195-E2"
+},
+"E550" : {
+    "manuf" : "Embraer",
+    "fam" : "Embraer Praetor family",
+    "desc" : "Embraer Praetor 600"
+},
+"E135" : {
+    "manuf" : "Embraer",
+    "fam": "Embraer RJ family",
+    "desc" : "Embraer RJ135"
+},
+"E145" : {
+    "manuf" : "Embraer",
+    "fam": "Embraer RJ family",
+    "desc" : "Embraer RJ145"
+},
+"ER4" : {
+    "manuf" : "Embraer",
+    "fam": "Embraer RJ family",
+    "desc" : "Embraer RJ145"
+},
+"E55P" : {
+    "manuf" : "Embraer",
+    "fam": "Embraer Phenom family",
+    "desc" : "Embraer EMB-505 Phenom 300"
+},
+"E50P" : {
+    "manuf" : "Embraer",
+    "fam": "Embraer Phenom family",
+    "desc" : "Embraer Phenom 100"
+},
+"E35L" : {
+    "manuf" : "Embraer",
+    "fam": "Embraer Legacy family",
+    "desc" : "Embraer Legacy 650"
+},
+
+
+
+"G280" : {
+    "manuf" : "Gulfstream",
+    "fam": "Gulfstream G280",
+    "desc" : "Gulfstream G280"
+},
+"GLF4" : {
+    "manuf" : "Gulfstream",
+    "fam": "Gulfstream G450",
+    "desc" : "Gulfstream G450"
+},
+"GA5C" : {
+    "manuf" : "Gulfstream",
+    "fam": "Gulfstream G500",
+    "desc" : "Gulfstream G500"
+},
+"GLF5" : {
+    "manuf" : "Gulfstream",
+    "fam": "Gulfstream G550",
+    "desc" : "Gulfstream G550"
+},
+"GLF6" : {
+    "manuf" : "Gulfstream",
+    "fam": "Gulfstream 650ER",
+    "desc" : "Gulfstream 650ER"
+},
+ 
+
+
+"CRJ1" : {
+    "manuf" : "Mitsubishi",
+    "fam" : "Mitsubishi CRJ family",
+    "desc" : "Mitsubishi CRJ-100"
+},
+"CRJX" : {
+    "manuf" : "Mitsubishi",
+    "fam" : "Mitsubishi CRJ family",
+    "desc" : "Mitsubishi CRJ-1000"
+},
+"CRJ2" : {
+    "manuf" : "Mitsubishi",
+    "fam" : "Mitsubishi CRJ family",
+    "desc" : "Mitsubishi CRJ-200"
+},
+"CRJ7" : {
+    "manuf" : "Mitsubishi",
+    "fam" : "Mitsubishi CRJ family",
+    "desc" : "Mitsubishi CRJ-700"
+},
+"CRJ9" : {
+    "manuf" : "Mitsubishi",
+    "fam" : "Mitsubishi CRJ family",
+    "desc" : "Mitsubishi CRJ-900"
+},
+"CR9" : {
+    "manuf" : "Mitsubishi",
+    "fam" : "Mitsubishi CRJ family",
+    "desc" : "Mitsubishi CRJ-900"
+},
+
+
+"P68" : {
+    "manuf" : "Partenavia",
+    "fam" : "Partenavia P.68",
+    "desc" : "Partenavia P.68"
+},
+
+
+
+"P180" : {
+    "manuf" : "Piaggio",
+    "fam" : "Piaggio P.180 Avanti",
+    "desc" : "Piaggio P.180 Avanti"
+},
+
+
+"PC12" : {
+    "manuf" : "Pilatus",
+    "fam": "Pilatus PC",
+    "desc" : "Pilatus PC-12"
+},
+"PC24" : {
+    "manuf" : "Pilatus",
+    "fam": "Pilatus PC",
+    "desc" : "Pilatus PC-24"
+},
+
+
+"SB20" : {
+    "manuf" : "Saab",
+    "fam" : "Saab 2000",
+    "desc" : "Saab 2000"
+},
+"SF34" : {
+    "manuf" : "Saab",
+    "fam" : "Saab 340",
+    "desc" : "Saab 340"
+},
+
+
+"SW4" : {
+    "manuf" : "Swearingen",
+    "fam" : "Swearingen Metroliner",
+    "desc" : "Swearingen Metroliner"
+},
+"SW3" : {
+    "manuf" : "Swearingen",
+    "fam" : "Swearingen Merlin 3",
+    "desc" : "Swearingen Merlin 3"
+},
+
+
+"SU95" : {
+    "manuf" : "Sukhoi",
+    "fam" : "Sukhoi Superjet 100",
+    "desc" : "Sukhoi Superjet 100"
+},
+
+"DHC6" : {
+    "manuf" : "De Havilland",
+    "fam": "DHC-6 Twin Otter",
+    "desc" : "DHC-6 Twin Otter"
+},
+
+"F100" : {
+    "manuf" : "Fokker",
+    "fam": "Fokker family",
+    "desc" : "Fokker 100"
+},
+"F50" : {
+    "manuf" : "Fokker",
+    "fam": "Fokker family",
+    "desc" : "Fokker 50"
+},
+"F70" : {
+    "manuf" : "Fokker",
+    "fam": "Fokker family",
+    "desc" : "Fokker 70"
+},
+
+
+"L410" : {
+    "fam": "Let L-410 Turbolet",
+    "desc" : "Let L-410 Turbolet"
+},
+
+
+
+"DC10" : {
+    "manuf" : "McDonnell Douglas",
+    "fam": "McDonnell Douglas DC-10",
+    "desc" : "McDonnell Douglas DC-10"
+},
+"M11" : {
+    "manuf" : "McDonnell Douglas",
+    "fam": "McDonnell Douglas MD-11 family",
+    "desc" : "McDonnell Douglas MD-11"
+},
+"MD11" : {
+    "manuf" : "McDonnell Douglas",
+    "fam": "McDonnell Douglas MD-11 family",
+    "desc" : "McDonnell Douglas MD-11"
+},
+"MD81" : {
+    "manuf" : "McDonnell Douglas",
+    "fam": "McDonnell Douglas MD-80 family",
+    "desc" : "McDonnell Douglas MD-81"
+},
+"MD82" : {
+    "manuf" : "McDonnell Douglas",
+    "fam": "McDonnell Douglas MD-80 family",
+    "desc" : "McDonnell Douglas MD-82"
+},
+"MD83" : {
+    "manuf" : "McDonnell Douglas",
+    "fam": "McDonnell Douglas MD-80 family",
+    "desc" : "McDonnell Douglas MD-83"
+},
+"MD87" : {
+    "manuf" : "McDonnell Douglas",
+    "fam": "McDonnell Douglas MD-80 family",
+    "desc" : "McDonnell Douglas MD-87"
+},
+"MD88" : {
+    "manuf" : "McDonnell Douglas",
+    "fam": "McDonnell Douglas MD-80 family",
+    "desc" : "McDonnell Douglas MD-88"
+},
+"MD90" : {
+    "manuf" : "McDonnell Douglas",
+    "fam": "McDonnell Douglas MD-90",
+    "desc" : "McDonnell Douglas MD-90"
+},
+
+
+"H25B" : {
+    "manuf" : "Hawker Beechcraft",
+    "fam": "Hawker 800XP",
+    "desc" : "Hawker 800XP"
+},
+"BE40" : {
+    "manuf" : "Hawker Beechcraft",
+    "fam": "Hawker Beechcraft",
+    "desc" : "Hawker Beechcraft 400XP"
+},
+
+"TBM7" : {
+    "manuf" : "Daher",
+    "fam": "Daher TBM",
+    "desc" : "Daher TBM-700"
+},
+"TBM9" : {
+    "manuf" : "Daher",
+    "fam": "Daher TBM",
+    "desc" : "Daher TBM-900"
+},
+
+"LJ35" : {
+    "manuf" : "Learjet",
+    "fam": "Learjet 35A",
+    "desc" : "Learjet 35A"
+},
+"LJ75" : {
+    "manuf" : "Learjet",
+    "fam": "Learjet 75",
+    "desc" : "Learjet 75"
+},
+
+
+"BE9L" : {
+    "manuf" : "Beech",
+    "fam": "Beech C90GTx King Air",
+    "desc" : "Beech C90GTx King Air"
+},
+"H25C" : {
+    "manuf" : "Hawker Beechcraft",
+    "fam": "Hawker Beechcraft 1000",
+    "desc" : "Hawker Beechcraft 1000"
+},
+"PA46" : {
+    "manuf" : "Piper",
+    "fam": "Piper PA-46-350P Malibu Mirage",
+    "desc" : "Piper PA-46-350P Malibu Mirage"
+},
+"DA62" : {
+    "manuf" : "Diamond",
+    "fam": "Diamond DA-62",
+    "desc" : "Diamond DA-62"
+},
+"D28" : {
+    "manuf" : "Fairchild",
+    "fam": "Fairchild Dornier 228",
+    "desc" : "Fairchild Dornier 228"
+},
+"D228" : {
+    "manuf" : "Fairchild",
+    "fam": "Fairchild Dornier 228",
+    "desc" : "Fairchild Dornier 228"
+}
+
+
+
+
+
+
+}
