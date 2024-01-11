@@ -100,6 +100,19 @@ def get_aircraft_info(aircraft_typ):
             f = "Not Found"
         return d, f
 
+def clean_airline_name(x): 
+    sc = re.findall(r'\((.*?)\)',x)
+    if sc is not None :
+        if len(sc) == 0:
+            r = x
+        else :
+            r = x[:len(sc)]
+    else :
+        r = ""
+    return r
+
+
+
 #%%
 
 li = []
@@ -162,6 +175,10 @@ master['edt_d'] = master['edt'].apply(lambda x : timestamp_to_datetime(x))
 master['comments'] = master["Airline"].apply(lambda x : re.findall(r'\((.*?)\)',x))
 master['comments'] = master['comments'].apply(lambda x : x[0] if len(x) > 0 else "")
 master['comments'] = master['comments'].apply(lambda x : x.upper())
+
+#%%
+
+master['airline_u'] = master['Airline'].apply(lambda x : clean_airline_name(x))
 
 #%%
 
@@ -256,7 +273,7 @@ master.loc[master['aircraft_type_code'] == "BE40", :]
 
 # %%
 
-master.loc[master['aircraft_reg'].str.startswith("F-HTY") == True, :]
+master.loc[master['aircraft_reg'].str.startswith("F-HTT") == True, :]
 
 # %%
 
@@ -300,7 +317,7 @@ timespan = master.groupby("SAT_DATE")['flight_id'].count()
 timespan = timespan.reset_index(drop=False)
 timespan.head()
 
-plt.plot(timespan['SAT_DATE'], timespan['flight_id'])
+plt.scatter(timespan['SAT_DATE'], timespan['flight_id'])
 plt.xticks(rotation = 25)
 
 # %%
@@ -321,8 +338,8 @@ scoped_df = master.loc[master['airport_arrival'] == "Paris Charles De Gaulle Air
 
 #%%
 
-x1 = 'flight_name'; x2 ="Airline"; x3 = "segment"; x4="aircraft_fam_u"; x5 = "comments"
-X = scoped_df[[x1, x2, x3, x4, x5]]
+x1 = 'flight_name'; x2 ="Airline"; x3 = "segment"; x4="aircraft_fam_u"; x5 = "comments"; x6="SAT_DATE"
+X = scoped_df[[x1, x2, x3, x4, x5, x6]]
 
 #%%
 from sklearn import preprocessing
@@ -350,11 +367,20 @@ scoped_df.head()
 
 # %%
 
-scoped_df.loc[scoped_df['isoletionForest_outliers'] == "-1", :].sort_values(by="SAT_DATE", ascending=False)
+outliers = scoped_df.loc[scoped_df['isoletionForest_outliers'] == "-1", :].sort_values(by="SAT_DATE", ascending=False).reset_index(drop=True)
 
 #%%
 
 scoped_df.loc[scoped_df['isoletionForest_outliers'] == "-1", :]['SAT_DATE'].value_counts()
+
+# %%
+
+outliers.loc[outliers['SAT_DATE'].apply(lambda x : str(x)) == "2024-01-10", :]
+
+
+# %%
+
+outliers['SAT_DATE'].dtype
 
 # %%
 
@@ -366,7 +392,11 @@ master = master.loc[master['flight_id'] != 0, :]
 
 # %%
 
+outliers.columns
+
 # %%
+
+outliers['SAT_DATE'][0]
 
 # %%
 
@@ -379,10 +409,25 @@ for file_location in os.listdir('./data'):
 
 # %%
 
+from sklearn.preprocessing import OneHotEncoder
+
+enc = OneHotEncoder()
+df_temp = enc.fit_transform(master[['airline_u', 'segment']]).toarray()
+
+encodings = pd.DataFrame(columns = enc.get_feature_names_out(),
+                         data = df_temp)
+encodings = encodings.astype(int)
+t_df = pd.concat([encodings], axis=1)
+
+t_df.head()
 
 
 # %%
 
+enc.categories_
+
 # %%
+
+master.columns
 
 # %%

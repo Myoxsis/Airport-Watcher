@@ -832,6 +832,11 @@
     "fam": "Dassault Falcon",
     "desc" : "Dassault Falcon 6X"
 },
+"FA10" : {
+    "manuf" : "Dassault Aviation",
+    "fam": "Dassault Falcon",
+    "desc" : "Dassault Falcon 10"
+},
 
 
 "E170" : {
@@ -1148,6 +1153,11 @@
     "fam": "Learjet 35A",
     "desc" : "Learjet 35A"
 },
+"LJ60" : {
+    "manuf" : "Learjet",
+    "fam": "Learjet 60",
+    "desc" : "Learjet 60"
+},
 "LJ75" : {
     "manuf" : "Learjet",
     "fam": "Learjet 75",
@@ -1174,6 +1184,11 @@
     "manuf" : "Diamond",
     "fam": "Diamond DA-62",
     "desc" : "Diamond DA-62"
+},
+"SF50" : {
+    "manuf" : "Cirrus Aircraft",
+    "fam": "Cirrus Aircraft SF50",
+    "desc" : "Cirrus Aircraft SF50"
 },
 "D28" : {
     "manuf" : "Fairchild",
